@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Matthew-24
-- 👀 I’m interested in web 3.0
-- 🌱 I’m currently learning js and planning to learn react and node.js soon
-
+- 👀 I’m interested in web 3
+- 🌱 I’m currently learning node.js
 
 <!---
 Matthew-24/Matthew-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
